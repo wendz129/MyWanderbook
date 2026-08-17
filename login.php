@@ -1,7 +1,7 @@
 <html>
     <head>
 
-        <title>Mybook | Log in</title>
+        <title>MyWanderbook | Log in</title>
     </head>
 
     <style>
